@@ -1,0 +1,19 @@
+Cardinal Adina;22006;true;03m 39s 163ms;Strukka;2.21.2.0;EVTC20200329; https://dps.report/JarR-20200330-194312_adina
+Cardinal Sabir;21964;true;04m 57s 137ms;AoorÃ¡;2.21.2.0;EVTC20200329; https://dps.report/TPUC-20200330-195007_sabir
+Qadim the Peerless;22000;true;05m 28s 724ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/81aY-20200330-195815_qpeer
+Conjured Amalgamate;43974;true;02m 46s 268ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/ce38-20200330-200343_ca
+Twin Largos;21105;true;03m 59s 384ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/6XZM-20200330-201214_twins
+Qadim;20934;true;09m 20s 528ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/5Ufc-20200330-202455_qadim
+Soulless Horror;19767;true;02m 52s 968ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/cn4r-20200330-203259_sh
+Dhuum;19450;true;05m 41s 376ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/g8UH-20200330-210945_dhuum
+Cairn;17194;true;01m 27s 983ms;AoorÃ¡;2.21.2.0;EVTC20200329; https://dps.report/Kqs1-20200330-211836_cairn
+Mursaat Overseer;17172;true;01m 29s 279ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/nuWW-20200330-212227_mo
+Samarog;17188;true;04m 34s 729ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/MNvM-20200330-212903_sam
+Deimos;17154;true;03m 13s 837ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/KLlb-20200330-213944_dei
+Keep Construct;16235;true;04m 52s 735ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/EhC4-20200330-215646_kc
+Xera;16246;true;04m 27s 974ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/ZnLA-20200330-220703_xera
+Slothasor;16123;true;03m 02s 925ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/QUnF-20200330-221425_sloth
+Matthias Gabrel;16115;true;02m 54s 998ms;Strukka;2.21.2.0;EVTC20200329; https://dps.report/z3Ty-20200330-222921_matt
+Vale Guardian;15438;true;02m 31s 284ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/ghC4-20200330-223531_vg
+Gorseval the Multifarious;15429;true;02m 57s 71ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/qq5r-20200330-224655_gors
+Sabetha the Saboteur;15375;true;03m 58s 465ms;TaÃ­mi;2.21.2.0;EVTC20200329; https://dps.report/ymc2-20200330-225358_sab
